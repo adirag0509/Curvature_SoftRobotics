@@ -1,0 +1,1 @@
+curveval.py script valuates the radius of curvature using landmark points on the elastomer soft gripper, used to further analyse the gripping ability of the soft gripper for different objects as evident from the .png and .pdf files.
